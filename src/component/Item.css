@@ -1,0 +1,16 @@
+.draggable-item {
+    padding: 8px;
+    margin: 4px;
+    background: #e0e0e0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .droppable-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
